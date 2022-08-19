@@ -1,14 +1,14 @@
 {
-  "main.css": "/my-reads-udacity/static/css/main.4927c82b.chunk.css",
-  "main.js": "/my-reads-udacity/static/js/main.4a169a98.chunk.js",
-  "main.js.map": "/my-reads-udacity/static/js/main.4a169a98.chunk.js.map",
+  "main.css": "/my-reads-udacity/static/css/main.f1621cfa.chunk.css",
+  "main.js": "/my-reads-udacity/static/js/main.a8f12a26.chunk.js",
+  "main.js.map": "/my-reads-udacity/static/js/main.a8f12a26.chunk.js.map",
   "static/js/1.f76f7f0f.chunk.js": "/my-reads-udacity/static/js/1.f76f7f0f.chunk.js",
   "static/js/1.f76f7f0f.chunk.js.map": "/my-reads-udacity/static/js/1.f76f7f0f.chunk.js.map",
   "runtime~main.js": "/my-reads-udacity/static/js/runtime~main.3a812cbf.js",
   "runtime~main.js.map": "/my-reads-udacity/static/js/runtime~main.3a812cbf.js.map",
-  "static/media/App.css": "/my-reads-udacity/static/media/add.75d390e5.svg",
-  "static/css/main.4927c82b.chunk.css.map": "/my-reads-udacity/static/css/main.4927c82b.chunk.css.map",
+  "static/media/App.css": "/my-reads-udacity/static/media/add.ad5b074c.svg",
+  "static/css/main.f1621cfa.chunk.css.map": "/my-reads-udacity/static/css/main.f1621cfa.chunk.css.map",
   "index.html": "/my-reads-udacity/index.html",
-  "precache-manifest.76725739430555d72e4ddd8b47daa5db.js": "/my-reads-udacity/precache-manifest.76725739430555d72e4ddd8b47daa5db.js",
+  "precache-manifest.aefdba404191db884eda835750636410.js": "/my-reads-udacity/precache-manifest.aefdba404191db884eda835750636410.js",
   "service-worker.js": "/my-reads-udacity/service-worker.js"
 }
