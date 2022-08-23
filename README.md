@@ -5,7 +5,7 @@ This is a bookshelf app that allows you to select and categorize books you have 
 ## Getting Started
 
 ## Frontend
-### TL;DR
+
 
 To start using the application right away:
 
